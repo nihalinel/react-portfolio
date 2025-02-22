@@ -36,7 +36,7 @@ const About = () => {
                 <h1 >
                     <AnimatedLetters
                         letterClass={letterClass}
-                        strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
+                        strArray={"About me".split("")}
                         idx={15}
                     />
                 </h1>
@@ -60,7 +60,7 @@ const About = () => {
                 </p>
             </div>
 
-        {/* right side of the about page */}
+        {/* right side of the about page aka the cube spinner */}
 
         <div className='stage-cube-cont'>
             <div className='cubespinner'>

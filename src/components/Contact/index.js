@@ -9,7 +9,7 @@ import AnimatedLetters from '../AnimatedLetters'
 import emailjs from "@emailjs/browser"
 
 const Contact = () => {
-    const strArray = ['C', 'o', 'n', 't', 'a', 'c', 't', ' ', 'm', 'e']
+    const strArray = "Contact me".split("")
     const [letterClass, setLetterClass] = useState('text-animate')
     const refForm = useRef()
         

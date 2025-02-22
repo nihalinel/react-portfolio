@@ -42,7 +42,7 @@
 .container.about-page,
 .container.portfolio-page {
     h1 {
-        font-size: 53px;
+        font-size: 73px;
         font-family: 'Coolvetica';
         color: #f095ca;
         font-weight: 400;
@@ -98,6 +98,7 @@
 
     .text-zone {
         position: absolute;
+        font-size: small;
         left: 10%;
         top: 50%;
         transform: translateY(-50%);
