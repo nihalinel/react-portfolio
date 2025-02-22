@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/one.png",
+            "title": "Hack the Market",
+            "description": "Python, Matplotlib, Pandas",
+            "url": "https://github.com/nihalinel/Automated-Market-Making-Quantitative-Trading"
+        },
+        {
+            "cover": "/portfolio/spice.jpg",
+            "title": "Spice Identification System",
+            "description": "C/C++, Arduino, AutoCAD",
+            "url": "https://www.notion.so/aysenihal/Welcome-to-My-Portfolio-454cda91a79747a9a008cf1449dc28ee?p=74142c1156744af682438693fd80ff35&pm=c"
+        },
+        {
+            "cover": "/portfolio/one.png",
+            "title": "Hack the Market",
+            "description": "Python, Matplotlib, Pandas",
+            "url": "https://github.com/nihalinel/Automated-Market-Making-Quantitative-Trading"
+        },
+        {
+            "cover": "/portfolio/one.png",
+            "title": "Hack the Market",
+            "description": "Python, Matplotlib, Pandas",
+            "url": "https://github.com/nihalinel/Automated-Market-Making-Quantitative-Trading"
+        }
+    ]
+}
