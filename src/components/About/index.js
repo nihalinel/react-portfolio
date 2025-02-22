@@ -1,9 +1,16 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import AnimatedLetters from "../AnimatedLetters"
-import { useState, useEffect } from 'react'
-import { faGitAlt, faJsSquare, faReact, faHtml5, faCss3, faPython } from "@fortawesome/free-brands-svg-icons";
 import './index.scss'
+
+// React Imports
+import { useState, useEffect } from 'react'
 import Loader from "react-loaders";
+
+// Custom Imports
+import AnimatedLetters from "../AnimatedLetters"
+
+// Icon Imports
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGitAlt, faJsSquare, faReact, faPython } from "@fortawesome/free-brands-svg-icons";
+import 'devicon/devicon.min.css';
 
 const About = () => {
     
@@ -61,10 +68,10 @@ const About = () => {
                     <FontAwesomeIcon icon={faPython} color="#DD0031" />
                 </div>
                 <div className="face2">
-                    <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+                    <i className="devicon-csharp-plain colored"></i>
                 </div>
                 <div className="face3">
-                    <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+                    <i className="devicon-cplusplus-plain colored"></i>
                 </div>
                 <div className="face4">
                     <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
