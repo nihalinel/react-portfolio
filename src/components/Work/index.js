@@ -5,6 +5,7 @@ import React, {useState, useEffect} from 'react';
 import Loader from 'react-loaders';
 
 // Custom Imports
+import workData from '../../data/work.json'
 import AnimatedLetters from '../AnimatedLetters';
 
 const Work = () => {
@@ -21,6 +22,34 @@ const Work = () => {
         }
     });
 
+    const renderWork = (work) => {
+        return (
+            <div className="images-container">
+                {
+                    work.map((port, idx) => {
+                        return (
+                            <div key={idx} className="image-box" >
+                                <img 
+                                src={port.cover}
+                                className="work-image"
+                                alt="work" />
+                                <div className="content">
+                                    <p className="title">{port.title}</p>
+                                    <h4 className="company">{port.company}</h4>
+                                    <h5 className="duration">{port.duration}</h5>
+                                    <button
+                                        className="btn"
+                                        onClick={() => window.open(port.url)}
+                                    >View</button>
+                                </div>
+                            </div>
+                        )
+                    })
+                }
+            </div>
+        );
+    }
+
     return (
         
         <>
@@ -32,9 +61,7 @@ const Work = () => {
                     idx={15}
                 />
             </h1>
-            {/*
-            <div>{renderPortfolio(portfolioData.portfolio)}</div>
-            */}
+            <div>{renderWork(workData.work)}</div>
         </div>
         <Loader type="pacman" />
         </>
