@@ -1,0 +1,18 @@
+{
+    "portfolio": [
+        {
+            "cover": "/experience/BrockSolutions.jpg",
+            "title": "Software Developer",
+            "company": "Brock Solutions",
+            "duration": "September 2024 - April 2025",
+            "url": "https://www.brocksolutions.com/"
+        },
+        {
+            "cover": "/experience/EngMgmt.jpg",
+            "title": "Research and Project Support Assistant",
+            "company": "McMaster Engineering and Management Department",
+            "duration": "May 2024 - August 2025",
+            "url": "https://www.instagram.com/reel/C8cVQq0OT_b/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        }
+    ]
+}
