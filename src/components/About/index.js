@@ -41,22 +41,23 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                I am a Computer Engineering and Management student at McMaster University, 
-                passionate about leveraging technology and data-driven decision-making 
-                to optimize systems and drive business transformation. 
+                I’m a Computer Engineering and Management student at McMaster University, 
+                passionate about using technology and data-driven decision-making to optimize systems and drive business transformation. 
                 With co-op experience in software development, research, and project management, 
-                I have worked across diverse teams and departments to actively contribute to technical projects and codebases.
+                I’ve contributed to technical projects and codebases across diverse teams and departments.
                 </p>
                 <p align="LEFT">
-                My background combines engineering expertise, business acumen, and problem-solving skills, 
-                allowing me to bridge the gap between technology and strategy. 
-                I am particularly interested in software development, data science, automation, and digital communication tools.
+                My interdisciplinary background blends engineering expertise with business strategy, 
+                enabling me to effectively bridge the gap between technical implementation and strategic impact. 
+                I’m particularly interested in software development, data science, automation, and digital communication tools.
                 </p>
                 <p>
-                Beyond the classroom, I stay engaged through leadership roles and part-time work, 
-                including my role as a Communications Assistant for the Engineering & Management department. 
-                Currently finishing my internship at Brock Solutions, 
-                I am seeking Summer 2025 opportunities at the intersection of engineering and business development.
+                Outside the classroom, I stay engaged through leadership and community-building initiatives. 
+                I currently serve as President of the McMaster Engineering & Management Society and am a proud Cansbridge Scholar.
+                </p>
+                <p>
+                This summer, I’m gaining hands-on experience as a Software Developer at ATS Corporation, 
+                and I’ll be returning to school in Fall 2025 to complete my degree.
                 </p>
             </div>
 

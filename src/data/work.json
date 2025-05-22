@@ -1,6 +1,13 @@
 {
     "work": [
         {
+            "cover": "/experience/atsautomation_logo.jpg",
+            "title": "Software Developer",
+            "company": "ATS Global Service",
+            "duration": "May 2025 - Present",
+            "url": "https://ats-service.com/"
+        },
+        {
             "cover": "/experience/BrockSolutions.jpg",
             "title": "Software Developer",
             "company": "Brock Solutions",
