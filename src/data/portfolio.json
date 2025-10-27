@@ -1,7 +1,13 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/one.png",
+            "cover": "/portfolio/pacemaker_hardware.jpg",
+            "title": "Pacemaker",
+            "description": "Python, Simulink",
+            "url": "https://github.com/nihalinel/PACEMAKER_DCM"
+        },
+        {
+            "cover": "/portfolio/market_making.png",
             "title": "Hack the Market",
             "description": "Python, Matplotlib, Pandas",
             "url": "https://github.com/nihalinel/Automated-Market-Making-Quantitative-Trading"
