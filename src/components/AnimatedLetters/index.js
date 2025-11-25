@@ -16,7 +16,7 @@ const AnimatedLetters = ({ letterClass, strArray, idx, shouldReanimate = false }
             // After animation completes, switch to hover class
             const timer = setTimeout(() => {
                 setLocalLetterClass(letterClass);
-            }, 2000 + (strArray.length * 100));
+            }, 3000 + (strArray.length * 100));
             
             return () => clearTimeout(timer);
         } else {
