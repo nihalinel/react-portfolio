@@ -56,8 +56,7 @@ const About = () => {
                 I currently serve as President of the McMaster Engineering & Management Society and am a proud Cansbridge Scholar.
                 </p>
                 <p>
-                This summer, I’m gaining hands-on experience as a Software Developer at ATS Corporation, 
-                and I’ll be returning to school in Fall 2025 to complete my degree.
+                I am currently seeking Summer 2026 internships!
                 </p>
             </div>
 
