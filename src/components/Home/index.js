@@ -34,7 +34,7 @@ const Home = () => {
     useEffect(() => {
         const jobRotation = setInterval(() => {
             setCurrentJobIndex((prev) => (prev + 1) % jobTitles.length)
-        }, 5000)
+        }, 6000)
 
         return () => clearInterval(jobRotation)
     }, [])
