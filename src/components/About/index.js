@@ -41,19 +41,20 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                I’m a Computer Engineering and Management student at McMaster University, 
+                I'm a Computer Engineering and Management student at McMaster University, 
                 passionate about using technology and data-driven decision-making to optimize systems and drive business transformation. 
-                With co-op experience in software development, research, and project management, 
-                I’ve contributed to technical projects and codebases across diverse teams and departments.
+                With co-op experience in software development and project coordination, 
+                I've delivered technical solutions across manufacturing, education, and student organizations.
                 </p>
                 <p align="LEFT">
-                My interdisciplinary background blends engineering expertise with business strategy, 
-                enabling me to effectively bridge the gap between technical implementation and strategic impact. 
-                I’m particularly interested in software development, data science, automation, and digital communication tools.
-                </p>
+                    My interdisciplinary background blends engineering expertise with business strategy,
+                    enabling me to bridge technical implementation and project coordination.
+                    I'm particularly interested in embedded systems, cross-functional collaboration, 
+                    and leading initiatives that drive operational efficiency and innovation.
+                    </p>
                 <p>
                 Outside the classroom, I stay engaged through leadership and community-building initiatives. 
-                I currently serve as President of the McMaster Engineering & Management Society and am a proud Cansbridge Scholar.
+                I currently serve as Co-President of the McMaster Engineering & Management Society and am a proud Cansbridge Scholar.
                 </p>
                 <p>
                 I am currently seeking Summer 2026 internships!
