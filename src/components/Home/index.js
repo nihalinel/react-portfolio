@@ -38,7 +38,7 @@ const Home = () => {
         }, 6000)
 
         return () => clearInterval(jobRotation)
-    }, [])
+    }, [jobTitles.length]);
 
     return (
         <>
