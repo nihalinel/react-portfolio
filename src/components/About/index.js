@@ -57,7 +57,7 @@ const About = () => {
                 I currently serve as Co-President of the McMaster Engineering & Management Society and am a proud Cansbridge Scholar.
                 </p>
                 <p>
-                I am currently seeking Summer 2026 internships!
+                I am currently seeking Winter/Spring/Summer 2027 internships!
                 </p>
             </div>
 

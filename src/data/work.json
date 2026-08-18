@@ -1,6 +1,13 @@
 {
     "work": [
         {
+            "cover": "/experience/CL_logo.jpg",
+            "title": "Tech Project Management Intern",
+            "company": "Canada Life",
+            "duration": "May 2026 - August 2026",
+            "url": "https://www.instagram.com/p/Dbbbrc_iWmB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        },
+        {
             "cover": "/experience/atsautomation_logo.jpg",
             "title": "Software Developer",
             "company": "ATS Global Service",
